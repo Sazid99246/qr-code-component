@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Code Component](https://github.com/Sazid99246/frontend-mentor-qr-code-component)
-- Live Site URL: [QR Code compoonent](https://super-pasca-77b108.netlify.app/)
+- Solution URL: [Source Code](https://github.com/Sazid99246/qr-code-component)
+- Live Site URL: [QR Code component](https://sazid99246.github.io/qr-code-component/)
 
 ## My process
 
